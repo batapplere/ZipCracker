@@ -4451,7 +4451,7 @@ def print_banner(locale: str) -> None:
      / /_| | |_) | | |___| | | (_| | (__|   <  __/ |   
     /____|_| .__/___\____|_|  \__,_|\___|_|\_\___|_|   
            |_| |_____|                                 
-    #Coded By Asaotomo         Update:2026.04.10 (Core Engine Refactor)
+    #Coded By Asaotomo         Update:2026.05.25 (Core Engine Refactor)
             """,
             r"""                          
      ______          ____                _   [*]Hx0 Team
@@ -4460,7 +4460,7 @@ def print_banner(locale: str) -> None:
      / /_| | |_) | | |___| | | (_| | (__|   <  __/ |   
     /____|_| .__/___\____|_|  \__,_|\___|_|\_\___|_|   
            |_| |_____|                                 
-    #Coded By Asaotomo         Update:2026.04.10 (Core Engine Refactor)
+    #Coded By Asaotomo         Update:2026.05.25 (Core Engine Refactor)
             """,
         )
     )
